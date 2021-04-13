@@ -2,6 +2,13 @@
 
 #### Presentation Link: https://docs.google.com/presentation/d/1Qz2XyPpMMYSWpUuMSiwSV4yTi9EIQV-89tcz7LAIA1k/edit?usp=sharing
 
+##### Team:
+* Shyamkarthik Rameshbabu
+* Sean Campos 
+* Sanjay Saravanan
+* Devesh Khandelwal
+
+
 ## Introduction
 
 Predicting Flight Delay has been an age old problem troubling travellers, airport administrators, and airline staff alike. After studying various pieces of literature in this space, our team has taken a stab at using **flight**, **weather**, and **airport** data to build machine learning models that will **predict whether a flight will be delayed, or not delayed,** based off a variety of features. We hope this report will shed light on our journey and our discoveries.
