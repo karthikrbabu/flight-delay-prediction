@@ -32,3 +32,20 @@ In the previous publications that take a big data approach with similar datasets
 
 > 1. S. Choi, Y. Kim, S. Briceno, and D. Mavris. Prediction of weather-induced airline delays based on machine learning algorithms.  In AIAA/IEEE Digital Avionics Systems Confer-ence - Proceedings, volume 2016-December, 2016. [https://ieeexplore.ieee.org/document/7777956]
 > 2. R. Patgiri, S. Hussain, and A. Nongmeikapam. Empirical Study on Airline Delay Analysis and Prediction. In EAI Endorsed Transactions 2020. [https://arxiv.org/pdf/2002.10254.pdf]
+> 
+
+
+#### Working Directory 
+Many of the working directories are too large to be stored on to GitHub, therefore you will find the following directories shared in compressed format.
+  .
+  ├── airline-delays-literature
+  ├── data_joining
+  ├── eda
+  │   ├── airlines
+  │   ├── stations
+  │   └── weather
+  ├── feature_engineering
+  ├── modelling
+  ├── other
+  └── slide_visuals
+      └── DeveshEDAImages
