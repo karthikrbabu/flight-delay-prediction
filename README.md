@@ -37,15 +37,15 @@ In the previous publications that take a big data approach with similar datasets
 
 #### Working Directory 
 Many of the working directories are too large to be stored on to GitHub, therefore you will find the following directories shared in compressed format.
-  .
-  ├── airline-delays-literature
-  ├── data_joining
-  ├── eda
-  │   ├── airlines
-  │   ├── stations
-  │   └── weather
-  ├── feature_engineering
-  ├── modelling
-  ├── other
-  └── slide_visuals
-      └── DeveshEDAImages
+
+    ├── airline-delays-literature
+    ├── data_joining
+    ├── eda
+    │   ├── airlines
+    │   ├── stations
+    │   └── weather
+    ├── feature_engineering
+    ├── modelling
+    ├── other
+    └── slide_visuals
+        └── DeveshEDAImages
